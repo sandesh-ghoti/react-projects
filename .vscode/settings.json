@@ -1,11 +1,11 @@
 {
-  "workbench.colorTheme": "Visual Studio Dark",
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  "tailwindCSS.emmetCompletions": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
-  "editor.fontSize": 20,
-  "files.autoSave": "onFocusChange"
+    "workbench.colorTheme": "Visual Studio Dark",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 14,
+    "files.autoSave": "onFocusChange"
 }
