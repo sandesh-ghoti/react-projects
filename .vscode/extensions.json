@@ -4,10 +4,10 @@
 
   // List of extensions which should be recommended for users of this workspace.
   "recommendations": [
-    "bradlc.vscode-tailwindcss-0.9.11-universal",
-    "dsznajder.es7-react-js-snippets-4.4.3-universal",
-    "esbenp.prettier-vscode-9.16.0-universal",
-    "tabnine.tabnine-vscode-3.6.60-universal"
+    "bradlc.vscode-tailwindcss",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "tabnine.tabnine-vscode"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
